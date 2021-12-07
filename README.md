@@ -43,7 +43,7 @@ https://www.linkedin.com/in/kimkimly123/
 
 Demo
 <p align="center">
-<img src="https://github.com/selenalee123/AmazonClone/blob/main/src/asssets/Demo/Screenshot_1620076345.png" width="300" height="600"/>
+<img src="https://github.com/selenalee123/AmazonClone/blob/main/src/asssets/Demo/Screenshot_1625278160.png" width="300" height="600"/>
 <img src="https://github.com/selenalee123/AmazonClone/blob/main/src/asssets/Demo/Screenshot_1620005545.png" width="300" height="600"/>
 <img src="https://github.com/selenalee123/AmazonClone/blob/main/src/asssets/Demo/Screenshot_1620076345.png" width="300" height="600"/>
 <img src="https://github.com/selenalee123/Netflix/blob/main/assets/demo/authentication.png?raw=true">
